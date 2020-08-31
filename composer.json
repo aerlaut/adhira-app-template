@@ -1,0 +1,15 @@
+{
+    "name": "aerlaut/trunkimon",
+    "description": "Trunkline monitoring PT. Adhirajasa Sarana Utama",
+    "type": "project",
+    "license": "Commercial",
+    "authors": [
+        {
+            "name": "Anugerah Erlaut",
+            "email": "aerlaut@live.com"
+        }
+    ],
+    "require": {
+        "symfony/dotenv": "^5.1"
+    }
+}

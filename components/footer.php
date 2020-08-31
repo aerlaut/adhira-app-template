@@ -1,0 +1,1 @@
+<script src="<?php url('/js/alpine.min.js'); ?>"></script>
