@@ -1,6 +1,6 @@
-# APPLICATION TEMPLATE - PT ADHIRAJASA SARANA UTAMA
+# APPLICATION TEMPLATE
 
-Application template for developing Adhira web applications
+Application template for developing simple PHP web applications
 
 ## Requirements
 
@@ -9,7 +9,7 @@ Application template for developing Adhira web applications
 
 ## Installation
 
-1. Clone this repository `git clone https://github.com/aerlaut/adhira-app-template`
+1. Clone this repository `git clone https://github.com/aerlaut/app-template`
 2. Install Composer dependencies `composer install`
 3. Copy `.env.example` to `.env` edit files wit the correct parameters
 4. Run with `php -S localhost:8000`
